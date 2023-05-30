@@ -27,7 +27,7 @@ export default {
         sans: ["Titillium Web", "sans-serif"],
       },
       backgroundImage: {
-        "img-purple": "url('/src/Assets/bg.svg')",
+        "BackgroundLoginPage": "url('/src/Assets/BackgroundLoginPage.svg')",
       },
     },
   },
