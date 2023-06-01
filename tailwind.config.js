@@ -28,6 +28,7 @@ export default {
       },
       backgroundImage: {
         "BackgroundLoginPage": "url('/src/Assets/BackgroundLoginPage.svg')",
+        "BackgroundLoginPageMobile": "url('/src/Assets/BackgroundLoginPageMobile.svg')"
       },
     },
   },
