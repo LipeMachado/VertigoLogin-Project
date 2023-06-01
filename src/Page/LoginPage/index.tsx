@@ -11,7 +11,7 @@ export function LoginPage() {
                         <div className="bg-BackgroundLoginPageMobile bg-center bg-cover bg-no-repeat w-full h-40 flex justify-center items-center lg:hidden">
                             <img className="w-[200px] h-[67px]" src={vertigo} alt="Vertigo Logo" />
                         </div>
-                        <main className="flex flex-col mt-1 lg:mt-20 p-5 lg:p-0 gap-10 w-full max-w-[384px]">
+                        <main className="flex flex-col mt-1 lg:mt-10 p-5 lg:p-0 gap-10 w-full max-w-[384px]">
                             <header className="flex flex-col gap-4 w-full max-w-[350px]">
                                 <h1 className="font-sans text-3xl lg:text-4xl font-bold text-gray-800">
                                     Acesse a plataforma
